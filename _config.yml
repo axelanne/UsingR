@@ -9,16 +9,16 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry -for- Biologists
-description:      'Teaching the tools to get computers to do cool science'
-url:              http://www.datacarpentry.org/semester-biology
-baseurl:          /semester-biology
-email:            datacarpentrysemester@weecology.org
-feedbackurl:      https://docs.google.com/forms/d/e/1FAIpQLSdV_polFmoukgjcs1IC0Dd4iO1rdgwFnOds28xC_ma_z4tNIw
+title:            Using R for Data Analysis and Visualization
+description:      
+url:              https://axelanne.github.io/UsingR/
+baseurl:          /Using R
+email:            axel@marshall.edu
+feedbackurl:      
 author:
   name:           'Ethan White'
   url:            https://twitter.com/ethanwhite
 
 github:
-  repo:           https://github.com/datacarpentry/semester-biology
+  repo:           https://github.com/axelanne/UsingR.git
   #               Be sure the 'Issues' feature is activated in 'Settings'
